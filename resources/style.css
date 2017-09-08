@@ -5,12 +5,22 @@ html{
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: white;
 }
-div{
+div.header{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
 }
 p{
   font-size: 18px;
-  color: white;
+}
+.process{
+  font-size: 32px;
+  font-weight: bold;
+}
+.identify{
+  font-size: 23px;
+  font-weight: bold;
+}
+.focus{
+  font-size: 14px;
 }
